@@ -77,3 +77,14 @@ Users can add, view, update, and delete expenses.
 
    Amount must be greater than zero.
 
+## Screenshots
+
+1. Home Page
+   ![Home Page](screenshots/home.png)
+
+2.  Add Expense
+   ![Add Expense](screenshots/add_expense.png)
+
+3. View Expenses
+   ![View Expenses](screenshots/view_expenses.png)
+
